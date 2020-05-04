@@ -1,0 +1,28 @@
+﻿.container {
+    padding-top: 1rem;
+}
+
+.azure {
+    color: rgb(0, 120, 212);
+}
+
+.file-cta {
+    width: 320px;
+}
+
+.preview {
+    display: none;
+    object-fit: contain;
+    height: auto;
+    padding: 0;
+}
+
+.spinner {
+    display: none;
+    text-align: center;
+    padding: 1.1rem 0;
+}
+
+.error-display {
+    display: none;
+}
